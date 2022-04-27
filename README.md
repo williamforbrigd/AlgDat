@@ -1,2 +1,2 @@
-# Algdat
-IDATT2101 Algorithms and data structures
+# Algorithms and datastructures
+Algorithms and data structures
